@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/redpanda/__init__.py
+src/redpanda.egg-info/PKG-INFO
+src/redpanda.egg-info/SOURCES.txt
+src/redpanda.egg-info/dependency_links.txt
+src/redpanda.egg-info/requires.txt
+src/redpanda.egg-info/top_level.txt
