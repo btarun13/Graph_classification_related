@@ -8,6 +8,7 @@ License-File: LICENSE
 Requires-Dist: ipykernel>=6.29.5
 Requires-Dist: numpy>=2.1.2
 Requires-Dist: pandas>=2.2.3
+Requires-Dist: rdkit>=2024.3.5
 
 # Graph Classification with GIN and GCN with Global Pooling
 Project Overview

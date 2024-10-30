@@ -12,7 +12,9 @@ dependencies = [
     "ipykernel>=6.29.5",
     "numpy>=2.1.2",
     "pandas>=2.2.3",
+    "rdkit>=2024.3.5",
 ]
+
 
 [tool.setuptools.packages.find]
 where = ["src"]
